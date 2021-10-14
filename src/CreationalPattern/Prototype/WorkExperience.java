@@ -1,4 +1,4 @@
-package Ruankao.Proxy201305;
+package CreationalPattern.Prototype;
 
 public class WorkExperience implements Cloneable { // 1
     private String workDate;
